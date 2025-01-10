@@ -1,2 +1,2 @@
-aiohttp
-aiohttp-jinja2
+aiohttp==3.11.11
+aiohttp-jinja2==2-1.6
